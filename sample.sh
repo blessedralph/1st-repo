@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "I am learning to code with git"
+
+echo "I am learning to code with git on AWS "

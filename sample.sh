@@ -5,3 +5,6 @@ echo "Trying to do more practice"
 
 echo "Trying to do more fantastic practice/job"
 
+echo "Trying to do more fantastic sample practices"
+
+

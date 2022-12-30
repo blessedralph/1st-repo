@@ -11,3 +11,4 @@ echo "I am learning Jenkins for my devops class"
 
 echo "Trying really hard to master this class"
 
+echo "Feeling confident with git"

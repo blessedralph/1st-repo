@@ -6,5 +6,5 @@ echo "we keep grinding and we keep winning"
 
 echo "it's because god is involve and na him dey run am"
 
-echo "we're still on the git mata"
+echo "we're still on the git mata and I'm improving by the day"
 

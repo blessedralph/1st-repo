@@ -11,3 +11,6 @@ echo "we're still on the git mata and I'm improving by the day"
 echo "it gets easier with consistent practicing"
 
 echo "because na God dey run am"
+
+echo "working on sync of all file"
+

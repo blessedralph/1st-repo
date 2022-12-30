@@ -9,3 +9,5 @@ echo "Trying to do more fantastic sample practices"
 
 echo "I am learning Jenkins for my devops class"
 
+echo "Trying really hard to master this class"
+

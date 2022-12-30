@@ -7,5 +7,5 @@ echo "Trying to do more fantastic practice/job"
 
 echo "Trying to do more fantastic sample practices"
 
-echo "I am learning Jenkins"
+echo "I am learning Jenkins for my devops"
 

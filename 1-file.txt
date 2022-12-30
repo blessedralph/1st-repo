@@ -1,1 +1,2 @@
-This note was cretaed by Developer B
+This note was created by Developer B
+The recent change in code was made by Developer A

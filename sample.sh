@@ -16,4 +16,4 @@ echo "Feeling confident with git"
 
 echo "Final syncing of the day from Developer A"
 
-echo "starting another trend"
+echo "starting another trend...it's going to be splendid"

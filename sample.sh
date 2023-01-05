@@ -15,3 +15,5 @@ echo "Trying really hard to master this class"
 echo "Feeling confident with git"
 
 echo "Final syncing of the day from Developer A"
+
+echo "starting another trend"
